@@ -1,0 +1,2 @@
+streamlit_folium==0.23.2
+streamlit==1.40.2
